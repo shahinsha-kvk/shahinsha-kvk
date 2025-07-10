@@ -39,7 +39,7 @@
 </p>
 
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+**📕 Latest dev.to posts [@shahinsha_dev](https://dev.to/shahinsha_dev)**
 <!-- BLOG-POST-LIST:START -->
 - [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
