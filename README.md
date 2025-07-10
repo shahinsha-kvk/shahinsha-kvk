@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm shahinsha</h1>
 
 <h3 align="center">A young-dumb 🤓 Flutter Developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=shahinsha-kvk alt=shahinsha-kvk/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left">
+  <a href="https://instagram.com/inst.shein" target="blank">
+    <img src="https://img.shields.io/badge/Follow_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="inst.shein" />
+  </a>
+</p>
+
 
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
