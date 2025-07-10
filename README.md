@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shahinsha</h1>
+<h1 align="center">Hi 👋, I'm Shahinsha</h1>
 
 <h3 align="center">A young-dumb 🤓 Flutter Developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shahinsha-kvk alt=shahinsha-kvk/> </p>
@@ -19,18 +19,25 @@
 
 - 👨‍💻 All of my projects are available at [shahinsha-kvk](https://shahinsha-kvk.github.io)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **why can't be a pro | Change my mind!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/shahinsha-kolakkadan" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahinsha-kolakkadan" height="30" width="40" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/inst.shein" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="inst.shein" height="30" width="40" />
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/919072506288" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
 <!-- BLOG-POST-LIST:START -->
