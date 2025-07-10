@@ -13,11 +13,11 @@
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **dart, flutter and firebase concepts**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **shahinsha676523k@gmail.com**
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- 👨‍💻 All of my projects are available at [shahinsha-kvk](https://shahinsha-kvk.github.io)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
